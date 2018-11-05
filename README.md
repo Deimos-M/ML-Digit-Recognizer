@@ -13,5 +13,5 @@ The data set which is used for the classification is **MNIST**  data set. It con
 
 ![title](example1.PNG)
 
-* This repository contains models which are based on ML concepts and algorithms .Deep learning concepts and architecture can be used to achieve better results .Code available here :- 
-### Happy CODING
+* This repository contains models which are based on ML concepts and algorithms .Deep learning concepts and architecture can be used to achieve better results .Code available here :- https://github.com/Vipul05/DL-Neural-network
+### Happy CODING ;)
